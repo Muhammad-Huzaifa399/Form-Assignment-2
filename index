@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="text-align: center;">
+    <br><br><br><br><br>
+    <div>
+        <img src="./images (2).jpg" alt="Registration form" width="300" height="auto">
+        <br><br>
+        <a href="./Registrationform.html">
+            
+            <h1>Registration Form</h1>
+        </a>
+    </div>
+    <div>
+        <img src="./images.png" alt="login form" width="300" height="auto">
+        <a href="./loginform.html">
+            <h1>Login Form</h1>
+        </a>
+    </div>
+</body>
+</html>
